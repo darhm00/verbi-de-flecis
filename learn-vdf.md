@@ -85,4 +85,47 @@ every noun specifying something comes after the noun, let's see some examples:
  - ik dumus *pavus* (this little house);
  - ofik *magus* (the big office);
 
-**NOTE**: Normally adjectives end with `us`.
+**NOTE**: Normally adjectives end with `us` and adjectives have the same number
+of the noun (e.g. dumus**a** magus**a**, the big house).
+
+# Present to be verb & pronouns (Lesson IV)
+The present of the verb to be is irregular, it's the only irregular verb in the
+entire verb list, here is the conjugation:
+
+| Person | Singular              | Plural                |
+|--------|-----------------------|-----------------------|
+| 1st    | go su (I am)          | nos ustmi (we are)    |
+| 2nd    | tu us (you are)       | vos usti (you are)    |
+| 3rd    | is ust (he/she/it is) | eis ustint (they are) |
+
+the pronouns are as shown in the table (note that the subject can be omitted),
+these are some examples:
+ - ik dumus *ust* pavus sed bel (this house is small but cool);
+ - go *su* un vir (I am a man);
+ - eis *ustint* un fomina (they are some women).
+
+this is the conjugation of the phrase `to be big` in the present form:
+
+| Person | Singular     | Plural            |
+|--------|--------------|-------------------|
+| 1st    | go su magus  | nos ustmi magusa  |
+| 2nd    | tu us magus  | vos usti magusa   |
+| 3rd    | is ust magus | eis ustint magusa |
+
+**NOTE**: To negate a verb put `nu` before the verb (go *nu* su magus, I am not
+big).
+
+## Exercises (Lesson IV)
+Conjugate the phrase `to be small`, `to be a worker` and `to not be a woman` in
+the present form. <br>
+
+Translate to VDF the following sentences:
+ - I am not a worker;
+ - that thing is a city;
+ - it is a dog;
+ - it isn't a dog;
+
+Translate to English the following sentences:
+ - Go su pavus;
+ - Tu us pavus;
+ - Ik dumus nu us pavus, il res ust magus!
