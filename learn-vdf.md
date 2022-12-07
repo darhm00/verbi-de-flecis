@@ -23,17 +23,17 @@ There are 4 articles:
  - demonstrative (a);
  - demonstrative (b).
 
-**NOTE<sub>1</sub>**: nouns are definite by default.
-**NOTE<sub>2</sub>**: 2 articles cannot be used together.
-**NOTE<sub>3</sub>**: there are **no** plural articles.
+**NOTE<sub>1</sub>**: nouns are definite by default. <br>
+**NOTE<sub>2</sub>**: 2 articles cannot be used together. <br>
+**NOTE<sub>3</sub>**: there are **no** plural articles. <br>
 
 ## Indefinite article
 The indefinite article is `un`, the article comes before the noun, here are
 some examples:
- - un kani (a dog);
- - un vir (a boy/a man);
- - un fomin (a girl/ a woman);
- - un fomina (some girls/ some women).
+ - *un* kani (a dog);
+ - *un* vir (a boy/a man);
+ - *un* fomin (a girl/ a woman);
+ - *un* fomina (some girls/ some women).
 
 As you can see plural article is translated as `some + noun`.
 
@@ -48,18 +48,18 @@ possessive articles, 1 for each pronoun:
 | 3rd    | sea (his/her/its) | esea (their) |
 
 these are some examples:
- - mea dumus (my house);
- - esea patr (their father);
- - tea urbis (your city);
+ - *mea* dumus (my house);
+ - *esea* patr (their father);
+ - *tea* urbis (your city);
 
 ## Demonstrative articles (a & b)
 As you saw earlier there are 2 demonstrative article (of type a and of type b),
 which corresponds to the english `this` and `that`, in fact, the demonstrative
 articles replace the demonstratives adjectives, let's see some examples:
- - ik kani (this dog);
- - il res (that thing);
- - ik dantis (this worker);
- - il fomina (that woman);
+ - *ik* kani (this dog);
+ - *il* res (that thing);
+ - *ik* dantis (this worker);
+ - *il* fomina (that woman);
 
 The demonstrative articles of type a is `ik` (translated as `this`) and the
 demonstrative article of type b is `il` (translated as `that`)
@@ -81,8 +81,8 @@ Translate the following sentences in VDF:
 # Adjectives (Lesson III)
 To get more specific about something we need to use adjectives and other nouns,
 every noun specifying something comes after the noun, let's see some examples:
- - mea kani bel (my cool dog);
- - ik dumus pavus (this little house);
- - ofik magus (the big office);
+ - mea kani *bel* (my cool dog);
+ - ik dumus *pavus* (this little house);
+ - ofik *magus* (the big office);
 
-**NOTE**: Normally adjectives end with -us.
+**NOTE**: Normally adjectives end with `us`.
